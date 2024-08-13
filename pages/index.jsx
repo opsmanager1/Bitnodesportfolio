@@ -11,8 +11,6 @@ const home = () => {
             <Recommendations />
             <ClientReviews />
             {/* <Footer /> */}
-            
-
         </div>
     )
 }
