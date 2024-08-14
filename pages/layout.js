@@ -29,13 +29,13 @@ export default function Layout({ children }) {
         </div>
       </div>
       <div className='flex relative h-full justify-between gap-x-3'>
-        {/* left most side */}
+        {/* left most side
         <div
           className={`w-64 h-screen left-0 lg:rounded-xl -top-10 lg:top-0 lg:left-0 lg:h-full overflow-hidden bg-DeepNightBlack shadow-2xl z-50 lg:flex flex-col  lg:relative ${
             intro ? 'flex absolute' : 'hidden'
           }`}>
           <Intro isOpen={intro} setIsOpen={setIntro} />
-        </div>
+        </div> */}
         {/* overlay */}
         {intro && <div onClick={(e) => setIntro(false)} className='fixed top-0 left-0  w-full h-full bg-black/50 backdrop-blur-[2px] z-40'></div>}
 
