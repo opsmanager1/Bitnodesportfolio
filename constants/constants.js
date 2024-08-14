@@ -56,12 +56,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'opsmanager133@gmail.com',
+  PHONE: '+380956594952',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/opsmanager1',
+  LINKEDIN: 'https://www.linkedin.com/in/serhii-lemeshko-812a101b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+  TWITTER: 'https://x.com/lebhuanxgvw3jcp?s=21',
+  FACEBOOK: 'https://www.facebook.com/sergii.lemeshko',
 };
