@@ -35,8 +35,8 @@ const Contact = () => {
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Email:</span>
                                 <span className='text-LightGray text-sm'>opsmanager133@gmail.com</span>
-                                {/*
                             </div>
+                            {/*
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Linkedin:</span>
                                 <span className='text-LightGray text-sm'>iosamajavaid</span> 
