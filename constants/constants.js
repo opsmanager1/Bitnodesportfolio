@@ -1,4 +1,4 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Bitnodes';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
