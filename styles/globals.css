@@ -5,6 +5,8 @@
 body {
     /* transition: all; */
     background-color: #000  !important;
+    flex-direction: column; /* Вертикальная ориентация */
+    align-items: center; /* Центрирование по горизонтали */
     /* padding: 0.8rem; */
     /* transition: width 5s ease-in .2s; */
     overflow: hidden;
