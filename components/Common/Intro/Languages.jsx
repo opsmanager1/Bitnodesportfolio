@@ -2,19 +2,19 @@ import { Progress } from "antd"
 import { useEffect, useState } from "react"
 
 const Languages = () => {
-    const [urdu, setUrdu] = useState(0)
+    const [Uptime, setUptime] = useState(0)
     const [english, setEnglish] = useState(0)
 
     useEffect(() => {
         const timer = setInterval(() => {
             if (Uptime < 98) {
-                setUrdu(prevCount => prevCount + 1);
+                setUptime(prevCount => prevCount + 1);
             }
-            if (english < 88) {
+            {/* if (english < 88) {
                 setEnglish(prevCount => prevCount + 1);
-            }  
+            }  */}
         }, 30);
-
+ {/* middle components */}
         return () => clearInterval(timer);
     }, [urdu, english])
     return (
