@@ -1,7 +1,7 @@
 import React from 'react'
 import CardLayout2 from '../../Common/CardLayout2'
 
-const pasttestnetscard = ({ data }) => {
+const Pasttestnetscard = ({ data }) => {
     return (
         <CardLayout2>
             <div className="p-8 h-full relative card_stylings transition">
@@ -16,4 +16,4 @@ const pasttestnetscard = ({ data }) => {
     )
 }
 
-export default pasttestnetscard
+export default Pasttestnetscard
