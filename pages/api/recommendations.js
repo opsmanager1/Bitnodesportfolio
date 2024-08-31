@@ -5,9 +5,7 @@ const recommendationCard = [
     name: 'Empeira',
     image: "images/Empeira.png",
     designation: 'Cosmos SDK',
-    view: "
-End-to-End Verifiable Data Infrastructure (EVDI) Unlock the potential of verifiable data with Empeiria EVDI. Build easily deployable, innovative solutions, seamlessly bridging off-chain and on-chain worlds, empowering organizations to embrace Web3 technology.
-🌟",
+    view: "End-to-End Verifiable Data Infrastructure (EVDI) Unlock the potential of verifiable data with Empeiria EVDI. Build easily deployable, innovative solutions, seamlessly bridging off-chain and on-chain worlds, empowering organizations to embrace Web3 technology.🌟",
     linkednURL: "https://www.linkedin.com/company/empe-web3/"
   },
   {
