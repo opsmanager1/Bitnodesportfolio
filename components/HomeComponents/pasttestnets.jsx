@@ -1,5 +1,5 @@
 
-import RecommendationCard from "./pasttestnetscard"
+import pasttestnetscard from "./pasttestnetscard"
 import axios from "axios";
 import { useQuery } from "react-query";
 import ParagraphSkeleton from "../../Common/ParagraphSkeleton";
