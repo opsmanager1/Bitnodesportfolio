@@ -2,7 +2,7 @@
 import pasttestnetscard from "./pasttestnetscard"
 import axios from "axios";
 import { useQuery } from "react-query";
-import ParagraphSkeleton from "../../Common/ParagraphSkeleton";
+import ParagraphSkeleton2 from "../../Common/ParagraphSkeleton2";
 
 
 const pasttestnets = () => {
@@ -19,7 +19,7 @@ const pasttestnets = () => {
 
                 {isLoading ?
                     [1, 2, 3, 4].map(() => (
-                        <ParagraphSkeleton className={"p-8 h-full w-full relative"} />
+                        <ParagraphSkeleton2 className={"p-8 h-full w-full relative"} />
                     ))
                     :
                     data?.map((data, key) => (
