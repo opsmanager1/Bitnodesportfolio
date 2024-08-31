@@ -23,7 +23,7 @@ const pasttestnets = () => {
                     ))
                     :
                     data?.map((data, key) => (
-                        <RecommendationCard key={key} data={data} />
+                        <pasttestnetscard key={key} data={data} />
                     ))
                 }
 
