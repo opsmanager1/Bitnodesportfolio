@@ -27,11 +27,11 @@ const Pasttestnetscard = [
   },
   {
     id: 3,
-    name: 'Story protocol',
-    image: "images/8nW7W8k6CQlgIzFGPWEjmg.jpeg",
-    designation: 'EVM blockchain',
-    view: "Story Network is a general purpose layer 1 blockchain optimized for handling complex data structures fast and cost-efficient. It’s easy-to-use, EVM-equivalent and ready for your creativity.",
-    linkednURL: "https://www.story.foundation/"
+    name: 'Taiko',
+    image: "images/original-1348331c2846a04355261f363fb75f0c.png",
+    designation: 'ZK-EVM',
+    view: "Taiko is an Ethereum-equivalent (Type 1) ZK-EVM, maximally compatible with Ethereum. No additional compiling, reaudits, or tooling needed. Everything works out of the box, guaranteed.",
+    linkednURL: "https://taiko.xyz/"
   },
 ]
 export default function handler(req, res) {
