@@ -1,6 +1,6 @@
 
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-const pasttestnetscard = [
+const Pasttestnetscard = [
   {
     id: 0,
     name: 'Empeira',
@@ -35,5 +35,5 @@ const pasttestnetscard = [
   },
 ]
 export default function handler(req, res) {
-  res.status(200).json(pasttestnetscard)
+  res.status(200).json(Pasttestnetscard)
 }
