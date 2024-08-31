@@ -4,7 +4,7 @@ export const DESIGNATION = `Stake with us`;
 
 export const DETAILS = {
   Residence: 'Ukraine',
-  Data center location: 'Ukraine',
+  Datacenter_location: 'Ukraine',
   Servers: '20+',
 };
 
