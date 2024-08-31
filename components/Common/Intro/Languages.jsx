@@ -10,9 +10,9 @@ const Languages = () => {
             if (Uptime < 98) {
                 setUrdu(prevCount => prevCount + 1);
             }
-        {/* if (english < 88) {
+            if (english < 88) {
                 setEnglish(prevCount => prevCount + 1);
-            } */}  
+            }  
         }, 30);
 
         return () => clearInterval(timer);
