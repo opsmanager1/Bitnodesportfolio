@@ -26,11 +26,11 @@ const recommendationCard = [
   },
   {
     id: 3,
-    name: 'Muhammad Ullah',
-    image: "images/muhammad.jpeg",
-    designation: 'MERN Stack Developer at Productbox',
-    view: "I highly recommend Osama Javed for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
-    linkednURL: "https://www.linkedin.com/in/muhammadullahafridi/"
+    name: 'Story protocol',
+    image: "images/8nW7W8k6CQlgIzFGPWEjmg.jpeg",
+    designation: 'EVM blockchain',
+    view: "Story Network is a general purpose layer 1 blockchain optimized for handling complex data structures fast and cost-efficient. It’s easy-to-use, EVM-equivalent and ready for your creativity.",
+    linkednURL: "https://www.story.foundation/"
   },
 ]
 export default function handler(req, res) {
