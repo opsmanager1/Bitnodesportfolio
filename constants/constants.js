@@ -4,7 +4,7 @@ export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tec
 
 export const DETAILS = {
   Residence: 'Ukraine',
-  Datacenterlocation: 'Ukraine',
+  Data center location: 'Ukraine',
   Servers: '20+',
 };
 
