@@ -6,15 +6,15 @@ const recommendationCard = [
     image: "images/Empeira.png",
     designation: 'Cosmos SDK',
     view: "End-to-End Verifiable Data Infrastructure (EVDI) Unlock the potential of verifiable data with Empeiria EVDI. Build easily deployable, innovative solutions, seamlessly bridging off-chain and on-chain worlds, empowering organizations to embrace Web3 technology.🌟",
-    linkednURL: "https://www.linkedin.com/company/empe-web3/"
+    linkednURL: "https://empe.io/"
   },
   {
     id: 1,
-    name: 'Sikandar Hayat',
-    image: "images/sikandar.jpeg",
-    designation: 'Data Scientist | Machine Learning Engineer | Python Developer',
-    view: "I had the privilege of working alongside Osama on multiple university projects, and I must say, his talent and work ethic truly stood out. Recently, we were both part of the dynamic team at JMM Technologies, where Osama's professionalism and attention to detail shone brightly. I wholeheartedly endorse Osama for any opportunity that calls for a highly skilled and dedicated individual.",
-    linkednURL: "https://www.linkedin.com/in/sikandar-hayat-381407179/"
+    name: 'Fiamma',
+    image: "images/170712823.png",
+    designation: 'Cosmos SDK',
+    view: "ZK Applications Enjoy first-class verification service with ~99% reduction in verification cost and verification time reduced from hours to seconds. Hand over the technical hurdles arising from incompatibility of various proof systems and L1 chains to us. Leverage the highest level of security and decentralization of BTC network.",
+    linkednURL: "https://fiammachain.io/"
   },
   {
     id: 2,
