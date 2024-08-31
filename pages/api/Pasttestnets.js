@@ -3,11 +3,11 @@
 const Pasttestnetscard = [
   {
     id: 0,
-    name: 'Empeira',
-    image: "images/Empeira.png",
-    designation: 'Cosmos SDK',
-    view: "End-to-End Verifiable Data Infrastructure (EVDI) Unlock the potential of verifiable data with Empeiria EVDI. Build easily deployable, innovative solutions, seamlessly bridging off-chain and on-chain worlds, empowering organizations to embrace Web3 technology.🌟",
-    linkednURL: "https://empe.io/"
+    name: 'Dymension',
+    image: "images/28932.png",
+    designation: 'Modular Cosmos SDK / EVM compatible L1 blockchain',
+    view: "RollApps are the interactive applications for the Dymension network. RollApps are their own blockchains designed for scalability and customizability. You can build games, DeFi, NFT projects and much more!",
+    linkednURL: "https://dymension.xyz/"
   },
   {
     id: 1,
