@@ -8,7 +8,7 @@ const home = () => {
         <div className="Home-Page -z-10">
             <Banner />
              {/* <MyExpertise />  */}
-            <Recomendations />
+            <Recommendations />
             <ClientReviews />
             <Footer />
         </div>
