@@ -1,12 +1,12 @@
-import pasttestnetscard from "./pasttestnetscard"
+import Pasttestnetscard from "./Pasttestnetscard"
 import axios from "axios";
 import { useQuery } from "react-query";
 import ParagraphSkeleton2 from "../../Common/ParagraphSkeleton2";
 
 
-const pasttestnets = () => {
-    const { isLoading, error, data } = useQuery('pasttestnets', () =>
-        axios.get('api/pasttestnets')
+const Pasttestnets = () => {
+    const { isLoading, error, data } = useQuery('Pasttestnets', () =>
+        axios.get('api/Pasttestnets')
             .then(({ data }) => data)
             .catch(error => console.error('Error fetching testimonials:', error)))
 
@@ -22,7 +22,7 @@ const pasttestnets = () => {
                     ))
                     :
                     data?.map((data, key) => (
-                        <pasttestnetscard key={key} data={data} />
+                        <Pasttestnetscard key={key} data={data} />
                     ))
                 }
 
