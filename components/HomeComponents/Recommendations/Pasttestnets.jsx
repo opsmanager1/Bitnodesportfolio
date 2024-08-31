@@ -31,4 +31,4 @@ const Pasttestnets = () => {
     )
 }
 
-export default pasttestnets
+export default Pasttestnets
