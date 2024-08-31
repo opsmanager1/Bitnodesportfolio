@@ -2,7 +2,7 @@ import Footer from '../components/Footer';
 import Banner from '../components/HomeComponents/Banner';
 import MyExpertise from '../components/HomeComponents/Expertise/MyExpertise';
 import Recommendations from '../components/HomeComponents/Recommendations/Recommendations';
-import pasttestnets from '../components/HomeComponents/pasttestnets';
+import pasttestnets from '../components/HomeComponents/Recommendations/pasttestnets';
 import ClientReviews from '../components/HomeComponents/ClientReviews/ClientReviews';
 const home = () => {
     return (
