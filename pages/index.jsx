@@ -7,7 +7,7 @@ const home = () => {
     return (
         <div className="Home-Page -z-10">
             <Banner />
-            <MyExpertise />
+             {/* <MyExpertise />  */}
             <Recommendations />
             <ClientReviews />
             <Footer />
