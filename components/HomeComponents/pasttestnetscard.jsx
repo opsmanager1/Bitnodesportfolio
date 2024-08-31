@@ -1,5 +1,5 @@
 import React from 'react'
-import CardLayout from '../../Common/CardLayout'
+import CardLayout2 from '../../Common/CardLayout2'
 
 const pasttestnetscard = ({ data }) => {
     return (
