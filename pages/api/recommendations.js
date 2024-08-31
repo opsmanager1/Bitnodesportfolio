@@ -18,11 +18,11 @@ const recommendationCard = [
   },
   {
     id: 2,
-    name: 'Nasir Khan',
-    image: "images/nasir.jpg",
-    designation: 'MERN | JavaScript | Tailwind | Sass | Bootstrap',
-    view: "I wholeheartedly recommend Osama as a talented React frontend developer with an incredible flair for UI/UX design. His proficiency in Node.js further enhances his capabilities, allowing him to build robust and scalable applications. Osama's attention to detail, problem-solving skills, and dedication to delivering exceptional results make him a valuable addition to any development team.",
-    linkednURL: "https://www.linkedin.com/in/nasirkhan22/"
+    name: 'Rivalz',
+    image: "y4duuVf2_400x400.jpg",
+    designation: 'Dymension Rollapp',
+    view: "The Rivalz[NET] Protocol, or RNET, focuses on the application of our data layer towards AI use cases. Within RNET, we will focus on building a number of AI related products that can be used as part of our offering to businesses, as well as stand-alone products. While initially, our data layer will draw upon information sourced from RX, contributed by users, our mid-term strategy prioritizes third-party entities as the primary data source. This strategic shift aims to enable any AI agent to consume information within our data repository or engage in inter-agent communication. Leveraging the capabilities of Axelar, our platform will facilitate cross-chain solutions, positioning it as a central nexus within the broader crypto ecosystem.",
+    linkednURL: "https://rivalz.ai/dashboard"
   },
   {
     id: 3,
