@@ -11,11 +11,11 @@ const Pasttestnetscard = [
   },
   {
     id: 1,
-    name: 'Fiamma',
-    image: "images/170712823.png",
-    designation: 'Cosmos SDK',
-    view: "ZK Applications Enjoy first-class verification service with ~99% reduction in verification cost and verification time reduced from hours to seconds. Hand over the technical hurdles arising from incompatibility of various proof systems and L1 chains to us. Leverage the highest level of security and decentralization of BTC network.",
-    linkednURL: "https://fiammachain.io/"
+    name: 'Avail',
+    image: "images/663ba3a5d7d40cc8b0e82af2_Avail.png",
+    designation: 'Modular Polygon SDK',
+    view: "Avail is a Web3 infrastructure layer that allows modular execution layers to scale and interoperate in a trust minimized way.",
+    linkednURL: "https://www.availproject.org/"
   },
   {
     id: 2,
