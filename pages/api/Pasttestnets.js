@@ -41,6 +41,14 @@ const Pasttestnetscard = [
     view: "In the ever-evolving landscape of the blockchain world, Initia stands as a beacon of innovation and simplicity. We are on a mission to redefine the multi-chain network experience from the ground up. By seamlessly integrating architecture, product, and economic systems, Initia offers a holistic solution that transforms how networks operate, feel, and interact. This is why we call Initia a network for interwoven rollups. ",
     linkednURL: "https://initia.xyz/"
   },
+   {
+    id: 5,
+    name: 'Polymer Labs',
+    image: "images/polymer.png",
+    designation: 'Hub, connecting Ethereum Layer 2’s using IBC',
+    view: "Polymer provides IBC as a feature to the Ethereum ecosystem enabling modular security and permissionless expansion of the IBC network. Our protocol combines Optimism stack's settlement functionality, Eigenlayer’s data availability, and Cosmos SDK's interoperability features to create the most secure and scalable interoperability solution for the largest user base in Web3",
+    linkednURL: "https://www.polymerlabs.org/"
+  },
 ]
 export default function handler(req, res) {
   res.status(200).json(Pasttestnetscard)
