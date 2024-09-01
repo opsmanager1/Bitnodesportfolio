@@ -1,10 +1,9 @@
 const review = [
     {
         id: 0,
-        clientName: 'Mustafash',
-        clientLocation: 'Egypt',
-        clientSource: 'Fiverr',
-        clientReview: 'It is always nice to work with him. The work is finished quickly and he does more than is asked of him. It is also clear that he has a lot of knowledge of the work he does. I look forward to our next collaboration.'
+        clientName: 'What is rollups? Why Initia?',
+        clientSource: 'Feb 28, 2024',
+        clientReview: 'Rollups typically refer to a method of summarizing or aggregating data in databases or spreadsheets. In the context of blockchain technology, rollups are a layer 2 scaling solution that batch transactions off-chain and then periodically record them on the main chain, reducing congestion and increasing efficiency...'
     },
     {
         id: 2,
