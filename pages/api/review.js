@@ -2,6 +2,7 @@ const review = [
     {
         id: 0,
         clientName: 'What is rollups? Why Initia?',
+        clientLocation: 'Medium',
         clientSource: 'Feb 28, 2024',
         clientReview: 'Rollups typically refer to a method of summarizing or aggregating data in databases or spreadsheets. In the context of blockchain technology, rollups are a layer 2 scaling solution that batch transactions off-chain and then periodically record them on the main chain, reducing congestion and increasing efficiency...'
     },
