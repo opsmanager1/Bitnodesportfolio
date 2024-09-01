@@ -10,24 +10,24 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: 'Cosmos SDK chains',
+    level: '99%',
+  },
+  {
+    title: 'EVM chains',
+    level: '93%',
+  },
+  {
+     title: 'Solana SDK',
+     level: '65%',
+   },
+  {
+    title: 'Polygon SDK chains',
+    level: '90%',
+  },
+  {
+    title: 'Next.js projects',
     level: '75%',
-  },
-  {
-    title: 'React Developer',
-    level: '91%',
-  },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
-  {
-    title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
   },
 ];
 
