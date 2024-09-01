@@ -13,7 +13,7 @@ const Footer = () => {
                     <span>2024 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Best regards ❤️ <span className='font-bold'>Bitnodes team</span></a>
+                    <a href='https://medium.com/@bitnodes' target="_blank" rel="noreferrer">Best regards ❤️ <span className='font-bold'>Bitnodes team</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">
