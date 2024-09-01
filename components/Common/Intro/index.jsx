@@ -27,7 +27,7 @@ const Intro = () => {
         <Location />
         <Languages />
         <Skills />
-        <Tools />
+         {/* <Tools /> */}
         <Contact />
         {/* <Download icon={<FaDownload />} /> */}
       </div>
