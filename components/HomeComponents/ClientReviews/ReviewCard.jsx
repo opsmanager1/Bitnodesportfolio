@@ -19,13 +19,13 @@ const ReviewCard = ({ data }) => {
                 <div className="text-sm mt-2 text-LightGray font-normal">
                     {data.clientReview}
                 </div>
-                <div className="flex gap-2 items-center justify-center bg-MidNightBlack w-6/12 md:w-5/12 text-xs text-Green rounded-full p-2 mt-4 ">
+                 {/*  <div className="flex gap-2 items-center justify-center bg-MidNightBlack w-6/12 md:w-5/12 text-xs text-Green rounded-full p-2 mt-4 ">
                     <FaStar />
                     <FaStar />
                     <FaStar />
                     <FaStar />
                     <FaStar />
-                </div>
+                </div>  */}  
             </div>
         </CardLayout>
     )
