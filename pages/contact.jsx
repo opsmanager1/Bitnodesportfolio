@@ -58,7 +58,7 @@ const Contact = () => {
                 </div>
 
 
-                <div className="my-12 w-full h-auto text-Snow">
+               {/* <div className="my-12 w-full h-auto text-Snow">
                     <h1 className='text-lg font-bold'>Get In Touch</h1>
                     <div className="mt-4 py-8 px-8 bg-EveningBlack rounded-xl text-sm">
                         <div>
@@ -93,9 +93,9 @@ const Contact = () => {
                                 <button onClick={() => setIsOpen(true)} className="button"> SEND MESSAGE </button>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
+                    </div> 
+                </div> */}
+             </div>
             {/* success modal */}
             <Modal
                 className='card_stylings backdrop-blur-3xl drop-shadow-2xl'
