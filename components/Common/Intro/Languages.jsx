@@ -7,7 +7,7 @@ const Languages = () => {
 
     useEffect(() => {
         const timer = setInterval(() => {
-            if (Uptime < 98) {
+            if (Uptime < 99) {
                 setUptime(prevCount => prevCount + 1);
             }
             {/* if (english < 88) {
