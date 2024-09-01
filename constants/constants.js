@@ -32,27 +32,16 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
-  'JavaScript',
-  'ReactJS',
   'NextJS',
   'TypeScript',
   'NodeJS',
-  'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
   'REST API',
-  'MongoDB',
-  'MySQL',
   'Git',
   'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+  'Docker',
+  'Cosmovisor',
+  'Explorers',
 ];
 
 export const CONTACTS = {
