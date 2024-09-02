@@ -1,4 +1,5 @@
 import { ImCross } from 'react-icons/im'
+import { ImEmbed2 } from 'react-icons/im'
 import { FiAward } from 'react-icons/fi'
 import { FaHandshake } from 'react-icons/fa'
 import { ImHome } from 'react-icons/im'
